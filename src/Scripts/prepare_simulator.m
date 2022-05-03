@@ -62,8 +62,8 @@ function prepare_simulator(options)
         end
     end
     
-    %% Clear all data and release maps including invisible handles to make sure that the simulations can be repeated
-    
+%     %% Clear all data and release maps including invisible handles to make sure that the simulations can be repeated
+%     
     if evalin('base','exist(''Map'',''var'')')
         evalin('base','clear all');
         evalin('base','close all');
