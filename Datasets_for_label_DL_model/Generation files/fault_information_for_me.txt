@@ -1,9 +1,0 @@
-Noise _40 2,3
-noise_20 3,2
-noise_30 1,2
-noise_50 3,5
-stuckat 2,6
-stuckat 3,4
-offset_2 3,4
-offset_1 2,7
-offset_3 1,2
