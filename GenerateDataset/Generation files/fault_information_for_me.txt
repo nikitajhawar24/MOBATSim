@@ -1,0 +1,25 @@
+Noise _40 2,3
+noise_20 3,2
+noise_30 1,2
+noise_50 3,5
+stuckat 2,6
+stuckat 3,4
+stuckat 4,5
+stuckat 7,8
+stuckat 5,12
+stuckat 10,10
+stuckat 6,4
+stuckat 8,3
+stuckat 12,4
+stuckat 15,7
+offset_2 3,4
+offset_1 2,7
+offset_3 1,2
+
+autoencoder based classifier
+transformer based classifier
+GRU+simple RNN
+gru bidirectional+bidirectional RNN
+simple RNN
+Bidirectional gru with multiheaded attention
+mscred
